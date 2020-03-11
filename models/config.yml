@@ -1,0 +1,19 @@
+batch_size: 20
+dropout: 0.5
+embedding_size: 100
+hidden_size: 128
+model_path: models/
+tags:
+  - kuisun
+  - chufa
+  - yichang
+  - ehuaqian
+  - ehuahou
+  - sunshi
+  - siwang
+  - shesu
+  - gaoguan
+  - xingzheng
+  - zaojia
+  - wenti
+  - yukui
